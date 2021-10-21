@@ -1,7 +1,6 @@
 #!/bin/bash
-#caminho arquivo
+#diretorio arquivo
 diretorio="arquivos/"
-arquivoCompleto="arquivos/completo.json"
 #funcao que lista os arquivos do diretorio
 listarArquivosDiretorio(){
     
