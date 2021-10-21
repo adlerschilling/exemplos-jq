@@ -1,5 +1,4 @@
 # Exemplos jq 
-[![NPM](https://img.shields.io/npm/l/react)] (https://github.com/adlerschilling/exemplos-jq/blob/main/LICENSE)
 
 # Sobre o projeto
 O projeto conta com alguns exemplos de utilização da lib jq para leitura e criação de arquivos Json utilizando Shell.
